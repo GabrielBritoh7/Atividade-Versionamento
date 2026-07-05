@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<HTML>
-<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
-<BODY>
-<H1> TÍTULO1 </H1>
-</BODY>
-</HTML>
-=======
 git status
 git add
 git commit
@@ -14,4 +6,11 @@ git checkout
 git merge
 git pull
 git remote
->>>>>>> 584b50f3186fd011a32ff0af35d240e2716df365
+
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+<H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
+
